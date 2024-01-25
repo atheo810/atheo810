@@ -10,6 +10,10 @@
 
 Web Developer | Full stack Developer
 
+<h2 align="">Text Editor : </h2>
+
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
 <h2 align="">Currently Using : </h2>
 
 ![NodeJs](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
