@@ -49,3 +49,7 @@ Web Developer | Full stack Developer
 <h2 align="">Deploy : </h2>
 
 ![Vercel](https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white)
+
+<h2 align="">Servers : </h2>
+
+![Apache](https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white)
