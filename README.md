@@ -36,3 +36,5 @@ Web Developer | Full stack Developer
 ![NestJS](https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white)
 
 <h2 align="">Design : </h2>
+
+![NestJS](https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
