@@ -26,3 +26,4 @@ Web Developer | Full stack Developer
 
 ![Express](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge)
 ![Vue](https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white)
