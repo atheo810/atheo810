@@ -25,3 +25,4 @@ Web Developer | Full stack Developer
 <h2 align="">Frameworks : </h2>
 
 ![Express](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge)
+![Vue](https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
