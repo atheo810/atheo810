@@ -57,3 +57,4 @@ Web Developer | Full stack Developer
 <h2 align="">Databases : </h2>
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+![postgres](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
