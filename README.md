@@ -53,3 +53,7 @@ Web Developer | Full stack Developer
 <h2 align="">Servers : </h2>
 
 ![Apache](https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white)
+
+<h2 align="">Databases : </h2>
+
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
